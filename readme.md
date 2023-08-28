@@ -39,6 +39,7 @@ python setup.py build
 ## Getting started
 
 A guide to getting quickly started with STASCAN can be found [here.](./Demo/Demo1/demo1.ipynb)
+
 A complete guide to run a multi-sections model with optional processes can be found [here.](./Demo/Demo2/demo2.ipynb)
 
 ## License
