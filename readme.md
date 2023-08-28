@@ -9,18 +9,25 @@ STASCAN can also enable cell-type predictions at subdivide-spot resolution and p
 
 ## Software dependencies
 tensorflow==2.9.0
+
 numpy>=1.21.6
+
 matplotlib>=3.5.3
+
 cv2>=4.6.0
+
 PIL>=6.2.0
+
 tensorflow==2.9.0
+
 sklearn>=1.0.2
+
 skimage>=0.19.0
 
 ## Installation
 python setup.py build
 
 ## License
-[MIT © Richard McRichface.](../LICENSE)
+[MIT © Ying Wu.](../LICENSE)
 
 ## Citation
