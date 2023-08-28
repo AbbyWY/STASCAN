@@ -1,4 +1,5 @@
 # STASCAN
+![](./STASCAN_overview.png)
 
 ## Overview
 STASCAN is an AI-driven method that simultaneously utilizes the gene expression and the morphological information to depict fine-resolved cell distribution of the captured domains and even gap regions. 
