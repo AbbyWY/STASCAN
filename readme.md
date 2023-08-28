@@ -28,6 +28,6 @@ skimage>=0.19.0
 python setup.py build
 
 ## License
-[MIT © Ying Wu.](../LICENSE)
+[MIT © Ying Wu.](./LICENSE.txt)
 
 ## Citation
