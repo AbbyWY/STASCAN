@@ -3,14 +3,13 @@ from setuptools import Command, find_packages, setup
 __lib_name__ = "STASCAN"
 __lib_version__ = "1.0.0"
 __description__ = "An AI-driven method for enhanced cellular organizational map in spatial transcriptomics"
-__url__ = "https://github.com/yangteam/wuying/STASCAN"
+__url__ = "https://github.com/AbbyWY/STASCAN"
 __author__ = "Ying Wu"
 __author_email__ = "wuy@big.ac.cn"
 __license__ = "MIT"
 __requires__ = ["requests",]
+__long_description__ = "Here we propose STASCAN, which both gene expression and the morphological information are simultaneously utilized to improve the cellular resolution of captured domains and even gap regions. Besides, STASCAN is further designed to enable cell-type predictions at subdivide-spot resolution and construction of the 3D spatial cell map from histology images alone."
 
-with open("README.rst", "r", encoding="utf-8") as f:
-    __long_description__ = f.read()
 
 setup(
     name = __lib_name__,
