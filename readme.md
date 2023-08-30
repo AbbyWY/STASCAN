@@ -31,7 +31,7 @@ skimage>=0.19.0
 
 
 ## Installation
-python setup.py build
+pip install STASCAN==1.0.0
 
 
 ## Getting started
