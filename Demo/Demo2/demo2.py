@@ -7,14 +7,14 @@ import glob
 #vignettes_path = sys.argv[2]
 #output_path = sys.argv[3]
 
-STASCAN_PATH = "/xtdisk/yangyg_group/wuying/Analysis/STASCAN/package/"
-sys.path.append(STASCAN_PATH)
+#STASCAN_PATH = "../../"
+#sys.path.append(STASCAN_PATH)
 import STASCAN
 
 
-vignettes_path = "/xtdisk/yangyg_group/wuying/Analysis/STASCAN/package/Vignettes/Cui_Planarian_Multisections/"
-output_path = "/xtdisk/yangyg_group/wuying/Analysis/STASCAN/package/Demo2/"
-adjacent_path = "/xtdisk/yangyg_group/wuying/Analysis/STASCAN/package/Vignettes/Cui_Planarian_Adjacentimages/"
+vignettes_path = "../../Vignettes/Cui_Planarian_Multisections/"
+output_path = "./"
+adjacent_path = "../../Vignettes/Cui_Planarian_Adjacentimages/"
 
 
 ######################################################################

@@ -6,14 +6,14 @@ import os
 #output_path = sys.argv[3]
 #epochs = int(sys.argv[4])
 
-STASCAN_PATH = "/xtdisk/yangyg_group/wuying/Analysis/STASCAN/package/" 
-vignettes_path = "/xtdisk/yangyg_group/wuying/Analysis/STASCAN/package/Vignettes/Fawkner-Corbett_Intestinal_Slide6/" 
-output_path = "/xtdisk/yangyg_group/wuying/Analysis/STASCAN/package/Demo1/"
+#STASCAN_PATH = "../../" 
+vignettes_path = "../../Vignettes/Fawkner-Corbett_Intestinal_Slide6/" 
+output_path = "./"
 epochs = 2
 #epochs = 50
 
 
-sys.path.append(STASCAN_PATH)
+#sys.path.append(STASCAN_PATH)
 import STASCAN
 
 
